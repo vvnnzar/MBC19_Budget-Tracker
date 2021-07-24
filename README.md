@@ -2,27 +2,6 @@
 
 Monash Bootcamp Assignement 19 - PWA Homework: Online/Offline Budget Trackers
 
-Submit
-
-- the URL to the deployed application
-
-- the URL to the Github repository
--
-
-Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
-
-The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
-
-Offline Functionality:
-
-- Enter deposits offline
-
-- Enter expenses offline
-
-When brought back online:
-
-- Offline entries should be added to tracker.
-
 ### About this project
 
 Monash Bootcamp starter code was enhanced to create this application.
@@ -31,21 +10,12 @@ Giving users a fast and easy way to track their money is important, but allowing
 
 This application allows for offline access and functionality by providing users with capability to add expenses and deposits to their budget with or without a connection when travelling. If transactions are entered offline, they should populate the total when brought back online.
 
-Offline Functionality:
-
-- Enter deposits offline
-
-- Enter expenses offline
-
-When brought back online:
-
-- Offline entries should be added to tracker.
 
 ### Project Link
 
 ### Screen layout and Design
 
-(![Budget Tracker Example](https://github.com/vvnnzar/C:/MonashBootCamp/Homework/MBC19_Budget-Tracker/public/screen capture/budgetTrackerImage.png))
+(![Budget Tracker Example](https://github.com/vvnnzar/MBC19_Budget-Tracker/blob/main/public/screen%20capture/budgetTrackerImage.png))
 
 ### Acknowledgements
 
@@ -59,9 +29,9 @@ This development was completed in part using the following references:
 
 To view and modify code you will require the following:
 
-1.  Installation of HTML and Code editor software such as Visual Code Studio.
-2.  Node
-3.  Robo 3T /Mongo DB
+    1. Installation of HTML and Code editor software such as Visual Code Studio.
+    2.  Node
+    3.  Robo 3T /Mongo DB
 
 ### Getting Started
 
